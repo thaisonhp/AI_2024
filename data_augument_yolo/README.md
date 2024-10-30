@@ -49,5 +49,5 @@ Bước 5 : Nên ấn tab để xem các kết quả nhé :))
 
 Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tác giả:
 
-- **Tên**: [Tên của bạn]
-- **Email**: [Email của bạn]
+- **Tên**: Lương Thái Sơn 
+- **Email**: luongthaison2k4@gmail.com
