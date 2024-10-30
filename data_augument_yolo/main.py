@@ -2,7 +2,7 @@ import cv2
 from data_augumentation import SampleImgTransformer
 
 # Đọc ảnh từ file
-image = cv2.imread('/Users/luongthaison/Documents/Third_years_student/AI_AnhHung/YOLO_data_aug/data/vu.jpeg')
+image = cv2.imread('/Users/luongthaison/Documents/Third_years_student/AI_AnhHung/data_augument_yolo/data/vu.jpeg')
 cv2.imshow('Original Image', image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
